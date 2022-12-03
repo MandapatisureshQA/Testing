@@ -1,5 +1,6 @@
 .nav-container {
-    background: var(--color-black-90);
+    background:  linear-gradient(145deg,#dc2430,#7b4397);
+    /* background: linear-gradient(35deg,#360033,#0b8793); */
     width:100%;
     min-height: 50px;
     display: flex;
